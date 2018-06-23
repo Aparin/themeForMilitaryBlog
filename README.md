@@ -1,0 +1,2 @@
+# themeForMilitaryBlog
+https://etokakru.ru/
