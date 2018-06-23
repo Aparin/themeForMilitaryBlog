@@ -147,6 +147,7 @@ textarea {width: 95%;}
 	float: left;
 	}  
 .sidebar ul {padding: 10px 0px 0px 0px;}
+.sidebar ul li {background: url(""); padding: 0px;}
 .sidebar .menu {
 		background: none; 
 }
