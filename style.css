@@ -202,6 +202,8 @@ textarea {width: 95%;}
 	}
 }
 
+/* ---------------- !!! СМЕНА ЭКРАНА !!! ---------------- */
+
 @media screen and (max-width: 700px) {
 	body {	
 	padding:3px;
@@ -230,7 +232,7 @@ textarea {width: 95%;}
 	#logo img {
 		padding:10px; 
 		float:left; 
-		width: 300px; 
+		width: 98%; 
 		height: 75px;
 		border:none;
 	}
@@ -269,6 +271,7 @@ textarea {width: 95%;}
 	#content {
 		padding: 3px;
 		background-color:#fdfdfd;
+		width: 98%;
 	}
 
 	#sidebar1, #sidebar2  {
